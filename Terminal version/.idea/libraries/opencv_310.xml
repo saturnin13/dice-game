@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="opencv-310">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/opencv/build/java/opencv-310.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/opencv/build/java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/opencv/build/java/opencv-310.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/opencv/build/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/opencv/build/java" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/opencv/build/java" recursive="false" type="SOURCES" />
+  </library>
+</component>
